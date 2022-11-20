@@ -1,0 +1,9 @@
+const nameGirl = 'Lindsey';
+const giftUrl = 'https://www.facebook.com/nguyenlinh.dln';
+const eventName = 'Chúc Mừng 20-11';
+const titleCard = 'Tặng cô Lindsey';
+const contentCard = 'Chúc cô Lindsey của anh 20/11 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với cô trong hôm nay và cả những ngày sau';
+const giftImages = 'linh.jpg';
+const giftImage = 'xinh.png';
+const base64 = '';
+const giftImageBase64 = "data:image/png;base64, " + base64;
